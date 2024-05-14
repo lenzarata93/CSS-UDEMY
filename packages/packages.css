@@ -1,7 +1,12 @@
+main{
+    margin-top:16px;
+}
 .package{
-
-    margin-top: 16px;
-    background-color: rgb(106 137 233);
+    width: 80%;
+    margin: 16px 0;
+    border: 4px solid blue;
+    background: white;
+    
 }
 .package>a{
     border: 4px solid black;
@@ -19,7 +24,16 @@
 .package-description{
     border: 2px solid black;
     padding: 16px;
-    background-color: #3db2ed;
+  background: white;
+}
+#plus{
+    background-color: rgb(106 137 233);
+}
+#free{
+    background-color:#6e4ce1
+}
+#premium{
+    background-color: #4022a2
 }
 .package>a:hover,
 .package>a:active{
