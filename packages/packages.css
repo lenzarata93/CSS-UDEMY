@@ -1,9 +1,10 @@
 .package{
-    border: 4px solid black;
+
     margin-top: 16px;
-    background-color: rgb(106 137 233);;
+    background-color: rgb(106 137 233);
 }
 .package>a{
+    border: 4px solid black;
     text-decoration: none;
     color: inherit;
     display: block;
@@ -19,4 +20,8 @@
     border: 2px solid black;
     padding: 16px;
     background-color: #3db2ed;
+}
+.package>a:hover{
+    background-color: rgb(58, 66, 218);
+    border: 4px solid blue;
 }
