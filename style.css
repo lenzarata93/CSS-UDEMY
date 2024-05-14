@@ -28,6 +28,11 @@ background: url("/Best-Web-Hosting-in-Nigeria-Prices.jpg");
     width: 30%;
     vertical-align: middle;
 }
+.plans-list{
+    width: 85%;
+    margin: auto;
+    text-align: center;
+}
 .plan-title{
 color: #000afd;
 }
