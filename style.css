@@ -1,0 +1,98 @@
+*{
+    
+    box-sizing: border-box;
+
+}
+body{
+    font-family: "Roboto", sans-serif;
+
+}
+   
+
+section{
+    background-color:rgb(106 137 233);;
+}
+#product-overview h1{
+    color: black;
+    font-family: "Jersey 15", sans-serif;
+    height: 530px;
+    width:100%;
+    margin: 0;
+}
+#product-overview{
+background: url("/Best-Web-Hosting-in-Nigeria-Prices.jpg");  
+}
+.title{
+    text-align: center;
+    color: rgb(16, 43, 123);
+
+}
+.plan{
+    background-color: rgb(44, 44, 178);
+    text-align: center;
+    padding: 20px;
+    margin: 10px;
+    display: inline-block;
+    width: 30%;
+    vertical-align: middle;
+}
+.plan-title{
+color: #000afd;
+}
+.plan-price{
+color:#a281f2;
+}
+.plan-highlight{
+    background-color: rgb(23, 23, 146);
+    color: wheat;
+    box-shadow: 4px 2px 11px 5px rgba(0, 0 , 0, 0.6);
+}
+.plan-recommended{
+    background-color: #4040e4;
+    color: rgb(184 184 202);
+    box-shadow: 4px -3px 7px 2px black;
+    padding: 9px;
+    border-radius: 8px;
+}
+.plan-features{
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+.plan-features li{
+    margin: 6px 0px;
+}
+
+#key-features{
+    background:#7878c4;
+    margin-top: 40px;
+}
+#key-features .title{
+    padding: 20px;
+
+}
+.key-features-list{
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    text-align: center;
+}
+.key-feature{
+    display: inline-block;
+    width: 30%;
+    vertical-align: top;
+}
+.key-feature-image{
+    background-color: #6674df;
+    width: 130px;
+    border: 2px solid black;
+    border-radius: 50%;
+    height: 130px;
+    margin: auto;
+}
+.key-feature-descripton{
+    color: white;
+    font-size: 16px;
+    font-weight: 600;
+}
+
