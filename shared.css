@@ -1,3 +1,12 @@
+*{
+    
+    box-sizing: border-box;
+
+}
+body{
+    font-family: "Roboto", sans-serif;
+
+}
 .main-header{
     background:rgb(106 137 233);
     width: 100%;
@@ -23,6 +32,8 @@
 .main-nav-item a {
     color: rgb(16, 43, 123);
     text-decoration: none;
+    font-size: 16px;
+    font-weight: bold;
 }
 
 .main-nav-item a:hover,
