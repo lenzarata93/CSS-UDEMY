@@ -21,7 +21,9 @@
     padding: 16px;
     background-color: #3db2ed;
 }
-.package>a:hover{
+.package>a:hover,
+.package>a:active{
     background-color: rgb(58, 66, 218);
     border: 4px solid blue;
+    box-shadow: 2px 0px 7px 3px;
 }
